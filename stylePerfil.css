@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    
+  }
+
+  html{
+    font-size: 62.5%;
+  }
+
+  img{
+    max-width: 100%;
+  }
+
+  #perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#EFE3FF;
+    height:100vh;
+    width:300px;
+    float: left;
+  }
+  #linha{
+    display:block;
+    height:3px;
+    width:90%;
+    background-color:#9747FF;
+  }
+  #perfil img{
+    max-width: 80%;
+  }
+
+  #NomeUsuario{
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 35px;
+  }
+  #Ponto{
+
+    padding: 50px;
+    font-size: 2rem;
+
+  }
